@@ -273,3 +273,18 @@ footer {
         padding: 10px;
     }
 }
+
+/* En dessous de 323px */
+
+@media screen and (min-width:323px) {
+
+    *,::before,::after{
+        text-align: center;
+        
+    }
+
+    main {
+        width: 90%;
+        padding: 10px;
+    }
+}
